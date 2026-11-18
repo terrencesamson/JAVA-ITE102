@@ -1,4 +1,4 @@
-Terrence Ross Samson
+# Terrence Ross Samson
 
 I’m the loud friend in the group, the one who fills the room with noise, laughs, and energy, but never in a boring way.
 But I’m not always turned up to full volume. Sometimes I go quiet, and that’s when I do my best thinking. I recharge on my own, then come back ready to make noise again.
