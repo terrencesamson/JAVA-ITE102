@@ -1,33 +1,55 @@
-# Terrence Ross Samson
+👨‍💻 TERRENCE ROSS SAMSON
+Developer | Problem Solver | Creative Thinker
 
-I’m the loud friend in the group, the one who fills the room with noise, laughs, and energy, but never in a boring way.
-But I’m not always turned up to full volume. Sometimes I go quiet, and that’s when I do my best thinking. I recharge on my own, then come back ready to make noise again.
-At my core, I’m a problem solver who thinks like a programmer. When something breaks, I break it down, analyze it, and debug it until I find the real cause. I don’t settle for quick fixes. I look for answers that last. Loud when it’s time to celebrate, quiet when it’s time to think, and always looking for the better solution. If you’d like it shorter, funnier, or more professional, tell me and I’ll adjust it.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Java+%7C+Python+Developer;Think.+Code.+Debug.+Repeat." />
+</p>
+
+⚡ ABOUT ME
+
+I'm the loud friend in the group — bringing energy, laughter, and creativity wherever I go.
+
+But behind the noise is a problem solver who loves breaking things down, understanding how they work, and finding better solutions.
+
+🔥 Energetic, creative, and curious
+🧠 I enjoy solving challenging problems
+💻 Currently exploring Java and Python
+🔍 I believe in understanding the problem before fixing it
+🚀 Always learning and improving my coding skills
+"Loud when it's time to celebrate. Quiet when it's time to think."
+🛠️ TECH STACK
+
+<p align="left">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+🚀 MY PROJECTS
+📚 MIDTERM PROJECTS
+📝 Midterm Paired Task #1
+💻 Midterm Lab Task #1
+💻 Midterm Lab Task #2
+💻 Midterm Lab Task #3
+💻 Midterm Lab Task #4
+💻 Midterm Lab Task #5
+🎓 FINAL PROJECTS
+🔐 Final Lab Task #1 – Encapsulation
+🧬 Final Lab Task #2 – Inheritance
+🎯 MY DEVELOPER MINDSET
+python
+while True:
+    learn()
+    build()
+    make_mistakes()
+    debug()
+    improve()
 
 
-Programming Languages
+<p align="center">
+<b>⚡ CODE WITH PASSION. DEBUG WITH PATIENCE. BUILD WITH PURPOSE. ⚡</b>
+</p>
 
-Java ♨️
-Python
-
-💻 My Projects
-
-🧪 MIDTERM
-Midterm Paired Task #1 -
-
-Midterm Lab Task #1 - 
-
-Midterm Lab Task #2 - 
-
-Midterm Lab Task #3 - 
-
-Midterm Lab Task #4 - 
-
-Midterm Lab Task #5 -
-
-🎓 FINALS
-Final Lab Task #1 - Encapsulation
-
-Final Lab Task #2 - Inheritance
-
-
+<p align="center">
+<i>Thanks for visiting my GitHub profile!</i>
+</p>
