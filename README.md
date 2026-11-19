@@ -43,7 +43,7 @@ Hi! I'm **Terrence Samson**, an aspiring IT professional with an interest in pro
 
 ## Live Website
 
-**[Visit My Portfolio](https://samsonterrence.github.io/)**
+**[Visit My Portfolio](https://terrencesamson.github.io/JAVA-ITE102/)**
 
 ---
 
