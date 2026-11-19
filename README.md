@@ -25,27 +25,6 @@ But behind the noise is a problem solver who loves breaking things down, underst
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-🚀 MY PROJECTS
-📚 MIDTERM PROJECTS
-📝 Midterm Paired Task #1
-💻 Midterm Lab Task #1
-💻 Midterm Lab Task #2
-💻 Midterm Lab Task #3
-💻 Midterm Lab Task #4
-💻 Midterm Lab Task #5
-🎓 FINAL PROJECTS
-🔐 Final Lab Task #1 – Encapsulation
-🧬 Final Lab Task #2 – Inheritance
-🎯 MY DEVELOPER MINDSET
-python
-while True:
-    learn()
-    build()
-    make_mistakes()
-    debug()
-    improve()
-
-
 <p align="center">
 <b>⚡ CODE WITH PASSION. DEBUG WITH PATIENCE. BUILD WITH PURPOSE. ⚡</b>
 </p>
